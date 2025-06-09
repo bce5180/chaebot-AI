@@ -3,12 +3,17 @@
 <br>
 <br>
 ## 📁 파일 구성
+
 inference/<br>
-└── all_process.py # 드럼 분리 → BPM 추출 → onset 분할 → ViT 예측 → 악보 생성 전체 과정이 하나로 통합되어 있습니다<br>
+└── all_process.py
+(드럼 분리 → BPM 추출 → onset 분할 → ViT 예측 → 악보 생성 전체 과정이 하나로 통합되어 있습니다)
+<br>
+<br>
 train/<br>
 └── train_ViT.ipynb<br>
 └── train_ResNet101.ipynb<br>
 └── train_Unet.ipynb<br>
+(데이터셋 변환 - 로드 - 학습 설정 - 학습 - 성능 그래프 까지의 모든 과정이 담겨있습니다)
 <br>
 <br>
 ## 🎯 checkpoint_ViT.pth
