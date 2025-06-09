@@ -22,7 +22,9 @@ train/<br>
 - https://drive.google.com/file/d/11D6qrbZKqx7cvYrpE4yQIakvJP4Qq5uy/view?usp=sharing
 <br>
 <br>
+
 ## 📦 설치 방법
+
 ### 1. 시스템 패키지 설치 (PDF 악보 생성을 위한 LilyPond)
 
 <br>
