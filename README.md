@@ -26,15 +26,21 @@ train/<br>
 ### 1. 시스템 패키지 설치 (PDF 악보 생성을 위한 LilyPond)
 
 <br>
-```python
+<pre>
+<code>
 sudo apt-get update && sudo apt-get install -y lilypond
-```
+</code>
+</pre>
 <br>
+
 
 ### 2. Python 패키지 설치
 
 <br>
-```python
+<pre>
+<code>
 pip install yt_dlp essentia spleeter demucs pydub music21 pywavelets torch torchvision torchaudio timm librosa soundfile pandas
-```
+</code>
+</pre>
+
 <br>
