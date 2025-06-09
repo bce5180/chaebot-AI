@@ -6,7 +6,7 @@
 ## 📁 파일 구성
 
 inference/<br>
-└── all_process.py
+└── all_process.py<br>
 (드럼 분리 → BPM 추출 → onset 분할 → ViT 예측 → 악보 생성 전체 과정이 하나로 통합되어 있습니다)
 <br>
 <br>
